@@ -1,0 +1,26 @@
+vs2010: devenv /resetsettings
+
+devenv.exe /SafeMode
+
+
+
+vs2008:
+devenv.exe /ResetSettings
+devenv.exe /ResetSkipPkgs 
+devenv.exe /Setup
+
+devenv.exe /SafeMode
+
+devenv /resetskippkgs
+
+
+http://h10025.www1.hp.com/ewfrf/wc/document?cc=us&lc=en&docname=c02035108
+
+
+http://h30434.www3.hp.com/t5/Other-Notebook-PC-Questions/How-do-I-lock-and-unclock-the-FN-key/m-p/45847
+
+
+http://h30434.www3.hp.com/t5/Other-Notebook-PC-Questions/How-to-change-default-on-Function-Keys/td-p/282400
+
+
+bodhan.mahesh8@gmail.com
